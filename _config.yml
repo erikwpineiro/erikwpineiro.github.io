@@ -21,16 +21,21 @@
 title: Erik Pineiro
 email: erikwpineiro@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Erik Pineiro's personal wesbite.
+  Technical Lead
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "erikpineiro.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username:  "erikwpineiro"
+repository: erikwpineiro/erikwpineiro.github.io
+show_downloads: false
 
 # Build settings
-theme: minima
+# theme: minima
+#remote_theme: pages-themes/tactile@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
