@@ -21,11 +21,12 @@
 title: Erik Pineiro
 email: erikwpineiro@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Technical Lead
+  Technical Lead - Integrations Support @ 1Password
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "erikpineiro.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username:  "erikwpineiro"
+linkedin: "https://www.linkedin.com/in/erik-pineiro/"
 repository: erikwpineiro/erikwpineiro.github.io
 show_downloads: false
 
