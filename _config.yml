@@ -29,6 +29,7 @@ github_username:  "erikwpineiro"
 linkedin: "https://www.linkedin.com/in/erik-pineiro/"
 repository: erikwpineiro/erikwpineiro.github.io
 show_downloads: false
+future: true
 
 # Build settings
 # theme: minima
