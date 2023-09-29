@@ -4,6 +4,7 @@
 
 layout: default
 ---
-<h3>About Me</h3>
+About Me
+
 I'm an experienced IT professional currently working as a Technical Lead of the Integrations Support team at 1Password.
 [Read more...]({{ site.baseurl }}{% link about.markdown %})
